@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheffieldCao
 - 👀 I’m interested in computer vision, robotics, and autonomous vehicles
-- 🌱 I’m currently learning 3D vision
+- 🌱 I’m currently learning Robot vision
 - 📫 How to reach me :link:xucaotju@gmail.com
 
 <!---- 💞️ I’m looking to collaborate on ...--->
