@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SheffieldCao
 - 👀 I’m interested in robot vision, artificial intelligence and their wide applications.
 - 🌱 I’m currently learning physical-based computer vision methods.
-- 📫 How to reach me :link:xucaotju@gmail.com
+- 📫 How to reach me :link:xucaotju AT gmail.com
 
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---
