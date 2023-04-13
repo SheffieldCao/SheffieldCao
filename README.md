@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Xu CAO.
-- 👀 I’m interested in image editing, generative models and computer vision.
+- Hi, I’m Xu CAO.
+- I’m interested in image editing, generative models and computer vision.
 <!-- - 🌱 I’m currently learning physical-based computer vision methods. -->
-- 📫 How to reach me :link:xucaotju[AT]gmail.com
+- How to reach me xucaotju[AT]gmail.com
 
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---
