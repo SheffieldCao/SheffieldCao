@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SheffieldCao
-- 👀 I’m interested in robot vision, generative models and vision-language models.
+- 👋 Hi, I’m Xu CAO.
+- 👀 I’m interested in image editing, generative models and computer vision.
 <!-- - 🌱 I’m currently learning physical-based computer vision methods. -->
 - 📫 How to reach me :link:xucaotju[AT]gmail.com
 
