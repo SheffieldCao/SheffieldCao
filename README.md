@@ -1,5 +1,5 @@
 **Hi! This is Xu CAO.**
-- Recently, I’m working on image editing, computer vision and downstream applications.
+- Recently, I’m working on image editing and downstream applications.
 - How to reach me: `xucaotju[AT]gmail.com`
 
 <!---- 💞️ I’m looking to collaborate on ...--->
